@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppHeureTravailLireFichier/1.0.0": {
+        "dependencies": {
+          "ClassLibraryTime": "1.0.0.0"
+        },
+        "runtime": {
+          "ConsoleAppHeureTravailLireFichier.dll": {}
+        }
+      },
+      "ClassLibraryTime/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryTime.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppHeureTravailLireFichier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryTime/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

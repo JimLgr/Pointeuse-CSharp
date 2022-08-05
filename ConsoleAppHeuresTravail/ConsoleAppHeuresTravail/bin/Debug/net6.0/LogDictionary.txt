@@ -1,0 +1,15 @@
+jour : jeudi      | 08:30 => 17:30
+jour : vendredi   | 08:30 => 17:00
+jour : mercredi   | 09:00 => 17:00
+jour : jeudi      | 09:00 => 18:00
+jour : jeudi      | 08:30 => 17:00
+jour : vendredi   | 08:30 => 17:00 
+jour : samedi     | 08:30 => 17:00 
+jour : Dimanche   | 08:30 => 17:08 
+jour : lundi      | 08:30 => 17:00 
+jour : lundi      | 08:30 => 17:00 
+jour : mardi      | 08:30 => 17:00 
+jour : lundi      | 08:30 => 17:00
+jour : vendredi   | 08:30 => 17:00
+jour : lundi      | 08:30 => 17:00
+jour : lundi      | 08:28 => 18:09

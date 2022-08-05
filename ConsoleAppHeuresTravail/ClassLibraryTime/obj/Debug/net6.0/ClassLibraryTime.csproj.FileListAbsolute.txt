@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\bin\Debug\net6.0\ClassLibraryTime.deps.json
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\bin\Debug\net6.0\ClassLibraryTime.dll
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\bin\Debug\net6.0\ClassLibraryTime.pdb
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.AssemblyInfo.cs
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.dll
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\refint\ClassLibraryTime.dll
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ClassLibraryTime.pdb
+C:\Users\pc\source\repos\ConsoleAppHeuresTravail\ClassLibraryTime\obj\Debug\net6.0\ref\ClassLibraryTime.dll
